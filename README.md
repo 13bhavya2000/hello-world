@@ -1,6 +1,6 @@
 # React learnings
 
-node js -> runtime environment to run javascript code outside of browser
+node js -> runtime environment to run javascript code outside of browser \n
 npm -> node package manager for adding features from already package features in it
 npm create vite@latest
 package.json -> metadata contains dependencies scripts
